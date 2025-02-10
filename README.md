@@ -19,7 +19,7 @@
 ## 📌 Notable Projects   
 🔹 **University Graph Database** – Structuring hierarchical university departments  
 🔹 **Custom Sentiment Analysis & NER** – Fine-tuning models for Turkish customer reviews  
-🔹 **Object Detection with YOLOv8** – Using VisDrone, DOTAv2, UAVDT datasets for AI in transportation  
+🔹 **Object Detection with YOLOv8** – Using VisDrone, DOTAv2, UAVDT datasets to train an object detection model using YOLOv8 for AI in transportation  
 
 ## 🏆 Achievements  
 🏅 **Finalist** in **Girisim Vadisi NLP Competition**  
