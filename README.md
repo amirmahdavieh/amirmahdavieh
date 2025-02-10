@@ -17,7 +17,7 @@
 - **Database Management:** SQL, MySQL  
 
 ## 📌 Notable Projects   
-🔹 **University Graph Database** – Structuring hierarchical university departments
+🔹 **University Graph Database** – Structuring hierarchical university departments  
 🔹 **Custom Sentiment Analysis & NER** – Fine-tuning models for Turkish customer reviews  
 🔹 **Object Detection with YOLOv8** – Using VisDrone, DOTAv2, UAVDT datasets for AI in transportation  
 
