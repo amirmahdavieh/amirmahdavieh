@@ -28,8 +28,8 @@
 ## 🎶 Fun Fact  
 Beyond tech, I’m an **advanced pianist**, with performances at international music festivals and competitions.  
 
-📬 Let's Connect!
-🔗 **LinkedIn:** [linkedin.com/in/amir-hossein-mahdavieh](https://www.linkedin.com/in/amir-hossein-mahdavieh-357780218/)
-📧 **Email:** amir.mahdavieh79@gmail.com
+📬 Let's Connect!<br>
+🔗 **LinkedIn:** [linkedin.com/in/amir-hossein-mahdavieh](https://www.linkedin.com/in/amir-hossein-mahdavieh-357780218/)<br>
+📧 **Email:** amir.mahdavieh79@gmail.com<br>
 
 💡 Let’s collaborate! Feel free to check out my repositories, contribute, or connect with me.
