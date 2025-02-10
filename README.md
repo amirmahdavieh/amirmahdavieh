@@ -5,7 +5,7 @@
 🔍 My expertise spans across **deep learning, NLP, computer vision, and databases**, and I love building **intelligent systems** that solve real-world problems.  
 
 ## 🔭 I’m currently working on...  
-- My **undergraduate thesis**: **"Generating ER Diagrams and SQL Code from Natural Language Descriptions using LLMs"**   
+- My **undergraduate thesis**: "Leveraging LLMs for Automated ERD from natural language requirements"   
 
 ## 🛠️ Tech Stack  
 - **Programming:** Python, Java, C#  
@@ -17,7 +17,7 @@
 - **Database Management:** SQL, MySQL  
 
 ## 📌 Notable Projects   
-🔹 **University Graph Database** – Structuring hierarchical university departments with Neo4j  
+🔹 **University Graph Database** – Structuring hierarchical university departments
 🔹 **Custom Sentiment Analysis & NER** – Fine-tuning models for Turkish customer reviews  
 🔹 **Object Detection with YOLOv8** – Using VisDrone, DOTAv2, UAVDT datasets for AI in transportation  
 
